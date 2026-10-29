@@ -1,0 +1,7 @@
+This software includes the Android "dx" dex compiler (com.android.dx), from the
+Android Open Source Project, distributed via Maven Central as
+com.jakewharton.android.repackaged:dalvik-dx.
+
+Copyright (C) The Android Open Source Project
+Licensed under the Apache License, Version 2.0:
+https://www.apache.org/licenses/LICENSE-2.0
